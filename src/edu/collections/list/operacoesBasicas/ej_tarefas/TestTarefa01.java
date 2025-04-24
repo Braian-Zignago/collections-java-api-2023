@@ -1,4 +1,4 @@
-package edu.collections.list.ej_tarefas;
+package edu.collections.list.operacoesBasicas.ej_tarefas;
 
 public class TestTarefa01 {
     public static void main(String[] args) {

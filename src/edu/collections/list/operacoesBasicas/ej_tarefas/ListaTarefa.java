@@ -1,4 +1,4 @@
-package edu.collections.list.ej_tarefas;
+package edu.collections.list.operacoesBasicas.ej_tarefas;
 
 import java.util.ArrayList;
 import java.util.List;

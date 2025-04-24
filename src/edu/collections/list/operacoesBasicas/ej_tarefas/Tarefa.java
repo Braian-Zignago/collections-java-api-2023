@@ -1,4 +1,4 @@
-package edu.collections.list.ej_tarefas;
+package edu.collections.list.operacoesBasicas.ej_tarefas;
 
 public class Tarefa {
     private String descricao;
